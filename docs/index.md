@@ -1,4 +1,4 @@
-# Chroma Unleashed Magic
+# [Full card gallery](https://cubeartisan.net/cube/chroma/list?view=spoiler&s4=Mana+Value&s1=Unsorted&s3=Unsorted)
 
 # Purple is here
 
@@ -9,8 +9,44 @@
   <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Spell%20Cycle.png" alt="Spell Cycle" width="24%">
 </p>
 
+# Bean Tribal
+
 <p align="center">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Bean%20Farm.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Winged%20Bean.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Explosively%20Growing%20Bean.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Horror%20Bean.png" width="24%">
 </p>
+
+# Companions Return
+
+<p align="center">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Companions%20Unleashed.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Vetrom%20the%20Unknown.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Skreapi%20the%20Unexampled.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Honeygold%20the%20Insatiable.png" width="24%">
+</p>
+
+# Many different archetypes, build-arounds, and combos
+
+<p align="center">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Volcano%20Bean.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Shovel.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Mycelium%20Monarch.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Scourryn%20the%20Gravewatcher.png" width="24%">
+</p>
+
+
+
+# Optional Rule Changes
+
+<p align="center">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Property%20Insurance.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Land%20Replication.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Drought%20Insurance.png" width="24%">
+  <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Flood%20Insurance.png" width="24%">
+</p>
+
 # Conjure Scryfall (click image to conjure card)
 
 <p align="center">
