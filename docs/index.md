@@ -1,4 +1,4 @@
-# [Full card gallery: cubeartisan.net/cube/chroma](https://cubeartisan.net/cube/chroma/list?view=spoiler&s4=Mana+Value&s1=Unsorted&s3=Unsorted)
+**[Full card gallery: cubeartisan.net/cube/chroma](https://cubeartisan.net/cube/chroma/list?view=spoiler&s4=Mana+Value&s1=Unsorted&s3=Unsorted)**
 
 # Purple is here
 
@@ -100,6 +100,6 @@
     </a>
 </p>
 
-[Full card gallery: cubeartisan.net/cube/chroma](https://cubeartisan.net/cube/chroma/list?view=spoiler&s4=Mana+Value&s1=Unsorted&s3=Unsorted)
+**[Full card gallery: cubeartisan.net/cube/chroma](https://cubeartisan.net/cube/chroma/list?view=spoiler&s4=Mana+Value&s1=Unsorted&s3=Unsorted)**
 
 Discuss this set in the [Austin Cubing Discord](https://austin-cubing.github.io)
