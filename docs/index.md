@@ -1,4 +1,4 @@
-# [Full card gallery](https://cubeartisan.net/cube/chroma/list?view=spoiler&s4=Mana+Value&s1=Unsorted&s3=Unsorted)
+# Chroma Unleashed Magic
 
 # Purple is here
 
@@ -99,3 +99,6 @@
         <img src="https://media.githubusercontent.com/media/chroma-unleashed/chroma-unleashed.github.io/main/docs/images/Underground%20Crystalake.png" style="width: 24%;">
     </a>
 </p>
+
+
+Discuss this set in the [Austin Cubing Discord](https://austin-cubing.github.io)
