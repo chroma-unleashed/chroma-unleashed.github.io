@@ -16,3 +16,4 @@ docs/images/misc/Lutri[[:space:]]the[[:space:]]Spellchaser.png filter=lfs diff=l
 docs/images/misc/Wyll[[:space:]]Pact-Bound[[:space:]]Duelist.png filter=lfs diff=lfs merge=lfs -text
 docs/images/misc/Yawgmoth[[:space:]]Thran[[:space:]]Physician.png filter=lfs diff=lfs merge=lfs -text
 docs/images/misc/Zirda[[:space:]]the[[:space:]]Dawnwaker.png filter=lfs diff=lfs merge=lfs -text
+docs/images/misc/Priest[[:space:]]of[[:space:]]Possibility.png filter=lfs diff=lfs merge=lfs -text
